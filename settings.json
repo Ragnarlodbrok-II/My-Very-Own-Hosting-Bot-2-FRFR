@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": " endgamesmpdc.aternos.me",
+    "ip": "endgamesmpdc.aternos.me",
     "port": 44108,
     "version": "1.21.1"
   },
